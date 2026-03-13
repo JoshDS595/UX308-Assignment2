@@ -32,6 +32,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/shawarma-wrap/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/drinks/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
